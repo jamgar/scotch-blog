@@ -28,6 +28,8 @@ gem 'simple_form', '~> 3.2'
 gem 'bootstrap-sass', '~> 3.3'
 gem 'ckeditor', '~> 4.1'
 gem 'devise'
+gem 'carrierwave'
+gem 'mini_magick'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
